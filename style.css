@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: cyan;
+  padding: 4rem;
+  font-size: x-large;
+  margin: auto;
+}
+
+#show-btn {
+  display: block;
+  margin: auto;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  border-radius:0.4rem ;
+  font-size: medium;
+  background-color: cyan;
+  margin-top:2rem;
+}
+
+#birthday-input {
+  background-color: black;
+  color: cyan;
+}
+
+#emoji {
+  font-size: xx-large;
+  padding: 0.5rem
+}
+
+#result {
+  margin: 5rem;
+
+}
+
+
