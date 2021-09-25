@@ -35,4 +35,46 @@ body {
 
 }
 
+.link {
+     text-decoration: none;
+     padding: 0.5rem 1rem;
+}
 
+.list-non-bullet {
+     list-style: none;
+}
+
+.list-item-inline {
+     display: inline;
+     padding: 0rem 1rem;
+}
+
+ 
+.footer {
+     color: cyan;
+     padding: 1rem 05rem;  
+     text-align: center;
+     font-size: large;
+     margin-top:5% ;
+  }
+  
+  .footer .link {
+       color: cyan;
+       font-size: large;
+  }
+  
+  .footer .social-link {
+       font-size: larger;
+  }
+  
+  .footer ul {
+       padding-inline-start: 0px;
+  }
+  
+  .footer .footer-header {
+       font-weight: bolder;
+       font-size: large;
+       color: cyan;
+       padding-top: 1rem;
+  }
+  
